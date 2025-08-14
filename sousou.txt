@@ -1,1 +1,2 @@
-rassi lahouch youja menek 
+rassi lahouch youja menek
+x=0;
